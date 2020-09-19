@@ -1,3 +1,6 @@
 *.db
 *.log
 gitwshop/
+/musik/*
+!/musik/mp3/
+!/musik/flac/
